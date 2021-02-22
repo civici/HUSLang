@@ -1,0 +1,6 @@
+--EntryPoint--
+None main():
+    var firstVar = 1
+    var secondVar = 2
+    var thirdVar = firstVar + secondVar
+    print(thirdVar)
