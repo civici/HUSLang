@@ -1,2 +1,1 @@
-
-cl parser.c /link /out:a.exe
+cl.exe parser.c /link /out:a.exe
